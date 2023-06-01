@@ -17,19 +17,4 @@ Secondly, we will login to the *transcription* environment
 conda activate transcription
 ```
 
-###  Download GitHub repo
 
-```bash
-git clone https://github.com/dataprofessor/realtime-transcription
-```
-
-###  Pip install libraries
-```bash
-pip install -r requirements.txt
-```
-
-###  Launch the app
-
-```bash
-streamlit run streamlit_app.py
-```
